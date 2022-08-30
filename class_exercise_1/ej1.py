@@ -7,4 +7,4 @@ def sum(n):
     print(operaciones)
     return suma
 
-print(sum(5))
+print(sum(4))
